@@ -20,7 +20,7 @@ export default function BirthdayCelebration() {
         }}
         className="relative mb-2"
       >
-        <h1 className="text-4xl sm:text-5xl font-bold text-center text-yellow-600 mb-2">To My Cutiepie</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold text-center text-yellow-600 mb-2">To My Sunshine</h1>
         <div className="flex justify-center gap-3">
         </div>
       </motion.div>
@@ -85,19 +85,13 @@ export default function BirthdayCelebration() {
                   <p className="text-yellow-700 mb-2">
                     Just wanted to remind you. <br /> 
                     you’re my bestestestestesssst friend. <br />
-                    Every silly meme, deep chat, and our random food/ shopping adventure in my Hunter made my day! <br />
+                    Every silly meme, deep chat, and our random food/ shopping adventure in my RE Hunter made my day! <br />
                     Life feels lighter, warmer, and way more fun with you around.
                   </p>
                   <p className="text-yellow-600 font-medium">
                     I hope your birthday is full of love, magic, and everything that makes you smile ☀️
                   </p>
                   <div className="flex justify-center mt-2">
-                    <motion.div
-                      animate={{ scale: [1, 1.2, 1] }}
-                      transition={{ duration: 1.5, repeat: Number.POSITIVE_INFINITY }}
-                    >
-                      <Heart className="w-8 h-8 stroke-none fill-yellow-400" />
-                    </motion.div>
                   </div>
                 </div>
               </motion.div>
@@ -114,7 +108,7 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-yellow-700 mb-4">
-            May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
+            May every wish you make today come true. You deserve the world, and I’ll always be here as a big broo to remind you of that!
           </p>
           <div className="flex justify-center items-center gap-2">
             <p className="text-yellow-600 font-medium">

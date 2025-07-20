@@ -79,7 +79,7 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
         transition={{ delay: 0.5 }}
       >
         <p className="text-lg text-yellow-700 mb-4">
-          Just a little more... A little sunshine surprise is on its way! 💛
+          Just a little more... A little surprise is on its way! 💛
         </p>
 
         <div className="flex justify-center space-x-2">

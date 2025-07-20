@@ -13,7 +13,7 @@ export default function Home() {
   const [showForYouBtn, setShowForYouBtn] = useState(false);
   const audioRef = useRef(null);
 
-  const birthdayDate = new Date("2025-07-26T00:00:00+05:30");
+  const birthdayDate = new Date("2024-07-26T00:00:00+05:30");
 
   useEffect(() => {
     setTimeout(() => {
